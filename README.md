@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Maurilio Sousa 🖖🏼👽
 
 - 🌱 Tenho 21 anos
-- 💻 Estudante de Cieência da computação | Unip
+- 💻 Estudante de Ciência da computação | Unip
 - 🚩 (5/8) Semestre
 
 Estudando e aprimorando conhecimentos para a área de desenvolvimento de software e desenvolvimento de sistemas.
