@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Maurilio Sousa 🖖🏼👽
 
-- 💻 Voltado para desenvolvimento em JAVA
-
 Atualmente busco entender sobre arquitetura mainframe para poder desenvolver soluções em sistemas legados!
 
 ### Tecnologias
